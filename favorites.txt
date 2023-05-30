@@ -1,3 +1,6 @@
-Interstellar
-Black Mirror
-Бриллиантовая рука
+movie: Interstellar
+movie: Black Mirror
+movie: Бриллиантовая рука
+food:  Salad
+food:  Smashed eggs
+food:  Orange soup
